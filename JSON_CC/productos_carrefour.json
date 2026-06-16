@@ -1,0 +1,1022 @@
+[
+    {
+        "ID": 1,
+        "nombre": "Arroz basmati Sensation Carrefour 1 kg.",
+        "precio": 2.09
+    },
+    {
+        "ID": 2,
+        "nombre": "Pechuga de pollo al natural con arroz Solo Solutions 96 g. + Mix de arroz basmati y salvaje Solo Solutions 100 g.",
+        "precio": 4.95
+    },
+    {
+        "ID": 3,
+        "nombre": "Arroz basmati Tilda 1 kg.",
+        "precio": 3.59
+    },
+    {
+        "ID": 4,
+        "nombre": "Pechuga de pavo al natural alta en proteínas Solo Frinsa 96 g.",
+        "precio": 4.35
+    },
+    {
+        "ID": 5,
+        "nombre": "Arroz basmati para microondas Brillante sin gluten pack de 2 unidades de 125 g.",
+        "precio": 1.42
+    },
+    {
+        "ID": 6,
+        "nombre": "Arroz basmati ecológico Carrefour Bio 500 g.",
+        "precio": 2.15
+    },
+    {
+        "ID": 7,
+        "nombre": "Arroz salvaje y basmati para microondas Brillante pack de 2 unidades de 125 g.",
+        "precio": 1.99
+    },
+    {
+        "ID": 8,
+        "nombre": "Arroz basmati para microondas Nomen sin gluten pack de 2 unidades de 200 g.",
+        "precio": 2.69
+    },
+    {
+        "ID": 9,
+        "nombre": "Arroz basmati para microondas Classic Carrefour sin gluten pack de 2 unidades de 125 g.",
+        "precio": 1.1
+    },
+    {
+        "ID": 10,
+        "nombre": "Arroz basmati para microondas Nomen sin gluten pack de 2 unidades de 140 g.",
+        "precio": 2.35
+    },
+    {
+        "ID": 11,
+        "nombre": "Sardinas en aceite de oliva Albo 85 g.",
+        "precio": 2.69
+    },
+    {
+        "ID": 12,
+        "nombre": "Pechuga de pollo al natural con arroz Solo Solutions 96 g. + Mix de arroz basmati y salvaje Solo Solutions 100 g.",
+        "precio": 4.95
+    },
+    {
+        "ID": 13,
+        "nombre": "Merluza al natural con quinoa roja Solo Solutions 240 g.",
+        "precio": 5.25
+    },
+    {
+        "ID": 14,
+        "nombre": "Salmón al natural con quiona blanca Solo Solution 220 g.",
+        "precio": 7.49
+    },
+    {
+        "ID": 15,
+        "nombre": "Atún claro en aceite de oliva Calvo pack de 6 latas de 52 g.",
+        "precio": 8.37
+    },
+    {
+        "ID": 16,
+        "nombre": "Pechuga de pollo al natural Solo pack de 3 latas de 96 g.",
+        "precio": 9.95
+    },
+    {
+        "ID": 17,
+        "nombre": "Atún claro en escabeche Calvo pack de 3 latas de 52 g.",
+        "precio": 3.85
+    },
+    {
+        "ID": 18,
+        "nombre": "Sardinas en aceite de oliva Albo 85 g.",
+        "precio": 2.69
+    },
+    {
+        "ID": 19,
+        "nombre": "Atún claro sin aceite al natural Calvo pack de 3 latas de 56 g.",
+        "precio": 3.85
+    },
+    {
+        "ID": 20,
+        "nombre": "Ventresca de atún claro en aceite de oliva Calvo 75 g.",
+        "precio": 5.05
+    },
+    {
+        "ID": 21,
+        "nombre": "Atún claro al natural Calvo pack de 6 unidades de 56 g.",
+        "precio": 7.09
+    },
+    {
+        "ID": 22,
+        "nombre": "Atún claro al natural bajo en sal Calvo pack de 3 latas de 56 g.",
+        "precio": 5.65
+    },
+    {
+        "ID": 23,
+        "nombre": "Atún claro en aceite de girasol Calvo pack de 6 latas de 52 g.",
+        "precio": 6.95
+    },
+    {
+        "ID": 24,
+        "nombre": "Atún claro en aceite de girasol Calvo pack 3 latas de 52 g.",
+        "precio": 3.55
+    },
+    {
+        "ID": 25,
+        "nombre": "Chipirones rellenos en su tinta Albo 72 g.",
+        "precio": 5.99
+    },
+    {
+        "ID": 26,
+        "nombre": "Atún claro al natural alto en proteína +Pro Calvo pack de 3 latas de 65 g.",
+        "precio": 3.95
+    },
+    {
+        "ID": 27,
+        "nombre": "Pechuga de pollo al natural con arroz Solo Solutions 96 g. + Mix de arroz basmati y salvaje Solo Solutions 100 g.",
+        "precio": 4.95
+    },
+    {
+        "ID": 28,
+        "nombre": "Atún claro en aceite de oliva Calvo pack de 3 unidades de 52 g.",
+        "precio": 4.29
+    },
+    {
+        "ID": 29,
+        "nombre": "Atún claro en aceite de oliva virgen extra Calvo pack de 3 latas de 52 g.",
+        "precio": 4.99
+    },
+    {
+        "ID": 30,
+        "nombre": "Atún claro en aceite de oliva bajo en sal Calvo pack de 3 latas de 65 g.",
+        "precio": 4.99
+    },
+    {
+        "ID": 31,
+        "nombre": "Atún claro con aceite de oliva virgen extra Ligero Calvo pack de 3 unidades de 56 g.",
+        "precio": 5.65
+    },
+    {
+        "ID": 32,
+        "nombre": "Atún claro en salsa de aguacate y lima Calvo pack de 3 latas de 52 g.",
+        "precio": 3.99
+    },
+    {
+        "ID": 33,
+        "nombre": "Bonito del Norte en aceite de oliva Albo 82 g.",
+        "precio": 4.05
+    },
+    {
+        "ID": 34,
+        "nombre": "Atún claro en salsa de salpicón Calvo pack de 3 latas de 52 g.",
+        "precio": 3.99
+    },
+    {
+        "ID": 35,
+        "nombre": "Atún claro al natural Calvo pack de 3 latas de 52 g.",
+        "precio": 3.79
+    },
+    {
+        "ID": 36,
+        "nombre": "Atún claro con aceite de oliva Calvo pack de 3 latas de 56 g.",
+        "precio": 5.05
+    },
+    {
+        "ID": 37,
+        "nombre": "Cerveza 1906 Red Vintage pack 6 botellas 33 cl.",
+        "precio": 7.85
+    },
+    {
+        "ID": 38,
+        "nombre": "Cerveza 1906 Reserva Especial pack 6 botellas 33 cl.",
+        "precio": 7.15
+    },
+    {
+        "ID": 39,
+        "nombre": "Cerveza 1906 reserva especial lata 33 cl.",
+        "precio": 1.22
+    },
+    {
+        "ID": 40,
+        "nombre": "Cerveza 1906 Red Vintage La Colorada lata 33 cl.",
+        "precio": 1.33
+    },
+    {
+        "ID": 41,
+        "nombre": "Cerveza 1906 reserva especial pack 12 botellas 33 cl.",
+        "precio": 13.99
+    },
+    {
+        "ID": 42,
+        "nombre": "Cerveza 1906 Reserva Especial pack 6 botellas 33 cl.",
+        "precio": 7.15
+    },
+    {
+        "ID": 43,
+        "nombre": "Cerveza 1906 reserva especial pack 12 botellas 33 cl.",
+        "precio": 13.99
+    },
+    {
+        "ID": 44,
+        "nombre": "Cerveza 1906 reserva especial lata 33 cl.",
+        "precio": 1.22
+    },
+    {
+        "ID": 45,
+        "nombre": "Cerveza 1906 reserva especial lata 33 cl.",
+        "precio": 1.22
+    },
+    {
+        "ID": 46,
+        "nombre": "Cerveza 1906 Red Vintage pack 6 botellas 33 cl.",
+        "precio": 7.85
+    },
+    {
+        "ID": 47,
+        "nombre": "Cerveza 1906 Red Vintage pack 6 botellas 33 cl.",
+        "precio": 7.85
+    },
+    {
+        "ID": 48,
+        "nombre": "Cerveza 1906 Reserva Especial pack 6 botellas 33 cl.",
+        "precio": 7.15
+    },
+    {
+        "ID": 49,
+        "nombre": "Cerveza 1906 reserva especial lata 33 cl.",
+        "precio": 1.22
+    },
+    {
+        "ID": 50,
+        "nombre": "Cerveza 1906 Red Vintage La Colorada lata 33 cl.",
+        "precio": 1.33
+    },
+    {
+        "ID": 51,
+        "nombre": "Cerveza 1906 reserva especial pack 12 botellas 33 cl.",
+        "precio": 13.99
+    },
+    {
+        "ID": 52,
+        "nombre": "Cerveza 1906 reserva especial pack 12 botellas 33 cl.",
+        "precio": 13.99
+    },
+    {
+        "ID": 53,
+        "nombre": "Cerveza 1906 Red Vintage La Colorada lata 33 cl.",
+        "precio": 1.33
+    },
+    {
+        "ID": 54,
+        "nombre": "Cerveza 1906 Red Vintage La Colorada lata 33 cl.",
+        "precio": 1.33
+    },
+    {
+        "ID": 55,
+        "nombre": "Champú anticaspa Classic H&S 625 ml.",
+        "precio": 7.65
+    },
+    {
+        "ID": 56,
+        "nombre": "Champú fortificante Nutri Rizos Contouring para cabello rizado u ondulado Garnier-Fructis 360 ml.",
+        "precio": 4.19
+    },
+    {
+        "ID": 57,
+        "nombre": "Champú anticaspa Citrus Fresh H&S 625 ml.",
+        "precio": 7.65
+    },
+    {
+        "ID": 58,
+        "nombre": "Champú fortificante Adiós Daños para cabello dañado Garnier-Fructis 360 ml.",
+        "precio": 4.19
+    },
+    {
+        "ID": 59,
+        "nombre": "Champú anticaspa citrus fresh para cabello graso H&S 1000 ml.",
+        "precio": 11.29
+    },
+    {
+        "ID": 60,
+        "nombre": "Champú anticaspa apple fresh H&S 1000 ml.",
+        "precio": 11.29
+    },
+    {
+        "ID": 61,
+        "nombre": "Champú anticaspa menthol fresh H&S 1000 ml.",
+        "precio": 11.29
+    },
+    {
+        "ID": 62,
+        "nombre": "Champú anticaspa menthol fresh H&S 625 ml.",
+        "precio": 7.65
+    },
+    {
+        "ID": 63,
+        "nombre": "Champú anticaspa alivio del picor Pro-Expert 7 H&S 300 ml.",
+        "precio": 6.15
+    },
+    {
+        "ID": 64,
+        "nombre": "Champú anticaspa menthol fresh H&S 300 ml.",
+        "precio": 3.89
+    },
+    {
+        "ID": 65,
+        "nombre": "Champú Fuerza y Brillo 2en1 para cabello normal Garnier-Fructis 360 ml.",
+        "precio": 4.19
+    },
+    {
+        "ID": 66,
+        "nombre": "Champú anticaspa citrus fresh H&S 300 ml.",
+        "precio": 3.89
+    },
+    {
+        "ID": 67,
+        "nombre": "Champú fortificante fuerza y brillo para cabello normal Ganier Fructis 690 ml.",
+        "precio": 7.65
+    },
+    {
+        "ID": 68,
+        "nombre": "Champú anticaspa calmante DermaXPro H&S 300 ml.",
+        "precio": 5.59
+    },
+    {
+        "ID": 69,
+        "nombre": "Champú anticaspa revitalizante DermaXPro H&S 300 ml.",
+        "precio": 5.65
+    },
+    {
+        "ID": 70,
+        "nombre": "Champú anticaspa apple fresh H&S 300 ml.",
+        "precio": 4.99
+    },
+    {
+        "ID": 71,
+        "nombre": "Champú y acondicionador anticaspa 2 en 1 Classic H&S 625 ml.",
+        "precio": 7.65
+    },
+    {
+        "ID": 72,
+        "nombre": "Champú anticaspa classic H&S 1000 ml.",
+        "precio": 11.29
+    },
+    {
+        "ID": 73,
+        "nombre": "Champú Hair Food papaya reparador Garnier-Fructis 350 ml.",
+        "precio": 5.69
+    },
+    {
+        "ID": 74,
+        "nombre": "Champú y acondicionador anticaspa classic 2 en 1 H&S 1000 ml.",
+        "precio": 11.29
+    },
+    {
+        "ID": 75,
+        "nombre": "Champú y acondicionador anticaspa 2en1 classic H&S 300 ml.",
+        "precio": 3.89
+    },
+    {
+        "ID": 76,
+        "nombre": "Champú anticaspa anticaída con cafeína Pro-Expert 7 H&S 300 ml.",
+        "precio": 6.15
+    },
+    {
+        "ID": 77,
+        "nombre": "Champú anticaspa classic H&S 300 ml.",
+        "precio": 4.55
+    },
+    {
+        "ID": 78,
+        "nombre": "Champú anticaspa anticaída H&S 330 ml.",
+        "precio": 4.99
+    },
+    {
+        "ID": 79,
+        "nombre": "Champú anticaspa hidratante para cuero cabelludo seco Derma X PRO H&S 300 ml.",
+        "precio": 5.59
+    },
+    {
+        "ID": 80,
+        "nombre": "Champú anticaída H&S 1000 ml.",
+        "precio": 12.99
+    },
+    {
+        "ID": 81,
+        "nombre": "Champú anticaspa anticaída H& 625 ml.",
+        "precio": 7.99
+    },
+    {
+        "ID": 82,
+        "nombre": "H&s Menthol Fresh Champú Anticaspa 230 Ml",
+        "precio": 11.85
+    },
+    {
+        "ID": 83,
+        "nombre": "Champú Anticaspa Head & Shoulders H&s Clásico 1 L",
+        "precio": 19.17
+    },
+    {
+        "ID": 84,
+        "nombre": "Chocolate con leche relleno de galleta choco swing Milka Mmmax 300 g.",
+        "precio": 3.95
+    },
+    {
+        "ID": 85,
+        "nombre": "Chocolate con galleta Lu Milka 87 g.",
+        "precio": 2.19
+    },
+    {
+        "ID": 86,
+        "nombre": "Chocolate con leche relleno de caramelo y cacahuetes Milka 276 g.",
+        "precio": 6.05
+    },
+    {
+        "ID": 87,
+        "nombre": "Chocolate con caramelo y cacahuetes crujientes Milka 90 g.",
+        "precio": 2.25
+    },
+    {
+        "ID": 88,
+        "nombre": "Chocolate brownie Oreo Milka 100 g.",
+        "precio": 2.25
+    },
+    {
+        "ID": 89,
+        "nombre": "Chocolate con leche relleno de galleta Milka Oreo 300 g.",
+        "precio": 4.95
+    },
+    {
+        "ID": 90,
+        "nombre": "Chocolate cremoso con leche Milka 100 g.",
+        "precio": 2.25
+    },
+    {
+        "ID": 91,
+        "nombre": "Chocolate con leche y burbujas bubbly Milka 90 g.",
+        "precio": 2.19
+    },
+    {
+        "ID": 92,
+        "nombre": "Chocolate relleno de galleta Oreo Milka pack de 3 unidades de 100 g.",
+        "precio": 4.99
+    },
+    {
+        "ID": 93,
+        "nombre": "Chocolate con leche con trozos de galleta Lotus bicoff Milka 90 g.",
+        "precio": 2.25
+    },
+    {
+        "ID": 94,
+        "nombre": "Chocolate con leche  triolade Milka 280 g.",
+        "precio": 5.55
+    },
+    {
+        "ID": 95,
+        "nombre": "Chocolate con leche y trozos de galleta caramelizada Milka Lotus Biscoff 190 g.",
+        "precio": 3.89
+    },
+    {
+        "ID": 96,
+        "nombre": "Mini cookies con pepitas de chocolate recubiertas de chocolate con leche Milka 110 g.",
+        "precio": 2.15
+    },
+    {
+        "ID": 97,
+        "nombre": "Chocolate con leche y trozos de galleta caramelizada Milka Lotus Biscoff 190 g.",
+        "precio": 3.89
+    },
+    {
+        "ID": 98,
+        "nombre": "Chocolate con leche y burbujas bubbly Milka 90 g.",
+        "precio": 2.19
+    },
+    {
+        "ID": 99,
+        "nombre": "Chocolate con leche y oreo Milka 100 g.",
+        "precio": 2.19
+    },
+    {
+        "ID": 100,
+        "nombre": "Chocolate con leche relleno de galleta choco swing Milka Mmmax 300 g.",
+        "precio": 3.95
+    },
+    {
+        "ID": 101,
+        "nombre": "Chocolate brownie Oreo Milka 100 g.",
+        "precio": 2.25
+    },
+    {
+        "ID": 102,
+        "nombre": "Chocolate con leche relleno de galleta Milka Oreo 300 g.",
+        "precio": 4.95
+    },
+    {
+        "ID": 103,
+        "nombre": "Chocolate con leche relleno Chips Ahoy Milka 100 g.",
+        "precio": 2.19
+    },
+    {
+        "ID": 104,
+        "nombre": "Chocolate con galleta Lu Milka 87 g.",
+        "precio": 2.19
+    },
+    {
+        "ID": 105,
+        "nombre": "Chocolate con leche relleno de caramelo y cacahuetes Milka 276 g.",
+        "precio": 6.05
+    },
+    {
+        "ID": 106,
+        "nombre": "Chocolate con caramelo y cacahuetes crujientes Milka 90 g.",
+        "precio": 2.25
+    },
+    {
+        "ID": 107,
+        "nombre": "Chocolate cremoso con leche Milka 100 g.",
+        "precio": 2.25
+    },
+    {
+        "ID": 108,
+        "nombre": "Chocolate relleno de galleta Oreo Milka pack de 3 unidades de 100 g.",
+        "precio": 4.99
+    },
+    {
+        "ID": 109,
+        "nombre": "Chocolate con leche con trozos de galleta Lotus bicoff Milka 90 g.",
+        "precio": 2.25
+    },
+    {
+        "ID": 110,
+        "nombre": "Chocolate con leche  triolade Milka 280 g.",
+        "precio": 5.55
+    },
+    {
+        "ID": 111,
+        "nombre": "Chocolate con avellanas enteras Milka 250 g.",
+        "precio": 6.49
+    },
+    {
+        "ID": 112,
+        "nombre": "Barrita de chocolate con corazón de leche Milkinis Milka 8 ud.",
+        "precio": 2.19
+    },
+    {
+        "ID": 113,
+        "nombre": "Chocolate con leche relleno de caramelo y avellanas enteras Milka 300 g.",
+        "precio": 6.29
+    },
+    {
+        "ID": 114,
+        "nombre": "Chocolate con leche de los Alpes Milka 125 g.",
+        "precio": 1.62
+    },
+    {
+        "ID": 115,
+        "nombre": "Chocolate con leche con avellanas troceadas Milka 125 g.",
+        "precio": 2.85
+    },
+    {
+        "ID": 116,
+        "nombre": "Chocolate relleno de cheesecake Milka 300 g.",
+        "precio": 5.55
+    },
+    {
+        "ID": 117,
+        "nombre": "Chocolate con leche, barquillo y nueces Milka 270 g.",
+        "precio": 5.55
+    },
+    {
+        "ID": 118,
+        "nombre": "Chocolate relleno de caramelo y almendras Milka 300 g.",
+        "precio": 6.45
+    },
+    {
+        "ID": 119,
+        "nombre": "Chocolate blanco Oreo White Milka 100 g.",
+        "precio": 2.25
+    },
+    {
+        "ID": 120,
+        "nombre": "Mayonesa Hellmann's sin gluten tarro 490 g.",
+        "precio": 3.19
+    },
+    {
+        "ID": 121,
+        "nombre": "Mayonesa Hellmann's sin gluten y sin lactosa tarro 650 ml.",
+        "precio": 4.05
+    },
+    {
+        "ID": 122,
+        "nombre": "Mayonesa Hellmann's sin gluten tarro 225 ml.",
+        "precio": 2.19
+    },
+    {
+        "ID": 123,
+        "nombre": "Mayonesa Hellmann's sin gluten y sin lactosa envase 430 ml.",
+        "precio": 3.75
+    },
+    {
+        "ID": 124,
+        "nombre": "Mayonesa Light Hellmann's sin gluten tarro 430 ml.",
+        "precio": 4.75
+    },
+    {
+        "ID": 125,
+        "nombre": "Mayonesa Hellmann's sin gluten envase 750 ml.",
+        "precio": 6.19
+    },
+    {
+        "ID": 126,
+        "nombre": "Mayonesa con trufa Hellmann's envase 250 ml.",
+        "precio": 2.75
+    },
+    {
+        "ID": 127,
+        "nombre": "Mayonesa sabor chilli Hellmann's envase 250 ml.",
+        "precio": 2.95
+    },
+    {
+        "ID": 128,
+        "nombre": "Mayonesa Hellmann's sin gluten y sin lactosa envase 430 ml.",
+        "precio": 3.75
+    },
+    {
+        "ID": 129,
+        "nombre": "Mayonesa Hellmann's sin gluten y sin lactosa tarro 650 ml.",
+        "precio": 4.05
+    },
+    {
+        "ID": 130,
+        "nombre": "Mayonesa sabor chilli Hellmann's envase 250 ml.",
+        "precio": 2.95
+    },
+    {
+        "ID": 131,
+        "nombre": "Mayonesa a la francesa Hellmann's sin gluten 340 ml.",
+        "precio": 2.79
+    },
+    {
+        "ID": 132,
+        "nombre": "Mayonesa con trufa Hellmann's envase 250 ml.",
+        "precio": 2.75
+    },
+    {
+        "ID": 133,
+        "nombre": "Mayonesa a la francesa con un toque de mostaza Hellmann's sin gluten 430 ml.",
+        "precio": 2.95
+    },
+    {
+        "ID": 134,
+        "nombre": "Mayonesa en bolsitas Hellmann's 12 ud.",
+        "precio": 2.39
+    },
+    {
+        "ID": 135,
+        "nombre": "Mayonesa con ajo Hellmann's envase 250 ml.",
+        "precio": 2.79
+    },
+    {
+        "ID": 136,
+        "nombre": "Salsa sriracha mayo hot chilli Go-Tan envase 215 ml.",
+        "precio": 3.69
+    },
+    {
+        "ID": 137,
+        "nombre": "Paté de hígado de cerdo Tapa Negra La Piara 230 g.",
+        "precio": 3.55
+    },
+    {
+        "ID": 138,
+        "nombre": "Paté campaña de cerdo y pollo Classic Carrefour sin gluten y sin lactosa 160 g.",
+        "precio": 1.24
+    },
+    {
+        "ID": 139,
+        "nombre": "Paté de hígado de cerdo Tapa Negra La Piara pack de 6 unidades de 75 g.",
+        "precio": 6.69
+    },
+    {
+        "ID": 140,
+        "nombre": "Paté de hígado de cerdo ibérico Tapa Negra La Piara pack de 2 unidades de 73 g.",
+        "precio": 4.05
+    },
+    {
+        "ID": 141,
+        "nombre": "Pate de hígado de cerdo ibérico Classic Carrefour sin gluten 110 g.",
+        "precio": 1.56
+    },
+    {
+        "ID": 142,
+        "nombre": "Paté suave de hígado de cerdo La Piara sin gluten y sin lactosa pack de 2 unidades de 75 g.",
+        "precio": 1.5
+    },
+    {
+        "ID": 143,
+        "nombre": "Paté de hígado de cerdo Tapa Negra La Piara 225 g.",
+        "precio": 3.99
+    },
+    {
+        "ID": 144,
+        "nombre": "Paté de hígado de cerdo picante Tapa Negra La Piara pack de 2 unidades de 73 g.",
+        "precio": 4.05
+    },
+    {
+        "ID": 145,
+        "nombre": "Paté de hígado de cerdo Tapa Negra La Piara sin gluten y sin lactosa pack de 3 latas de 87 g.",
+        "precio": 3.95
+    },
+    {
+        "ID": 146,
+        "nombre": "Paté de cerdo sabor suave Classic Carrefour pack de 3 latas de 80 g.",
+        "precio": 1.24
+    },
+    {
+        "ID": 147,
+        "nombre": "Paté de cerdo ibérico Classic Carrefour sin gluten y sin lactosa 240 g.",
+        "precio": 1.6
+    },
+    {
+        "ID": 148,
+        "nombre": "Paté de hígado de cerdo Classic Carrefour pack de 4 unidades de 78 g.",
+        "precio": 2.09
+    },
+    {
+        "ID": 149,
+        "nombre": "Paté de hígado de cerdo Classic Carrefour 200 g.",
+        "precio": 1.07
+    },
+    {
+        "ID": 150,
+        "nombre": "Pañales Dodot Activity T5 (12-17 kg.) 48 ud.",
+        "precio": 32.4
+    },
+    {
+        "ID": 151,
+        "nombre": "Pañales bebé seco Dodot T5 (11-16 kg.) 152 ud.",
+        "precio": 51.6
+    },
+    {
+        "ID": 152,
+        "nombre": "Pañales bebé-Seco Dodot T4 (9-14 kg.) 164 ud.",
+        "precio": 51.3
+    },
+    {
+        "ID": 153,
+        "nombre": "Pañales Dodot Sensitive T4+ (10-15 kg) 48 ud.",
+        "precio": 31.1
+    },
+    {
+        "ID": 154,
+        "nombre": "Pañales Dodot Sensitive T3+ (7-11 kg.) 56 ud.",
+        "precio": 31.1
+    },
+    {
+        "ID": 155,
+        "nombre": "Pañales Dodot Activity T4 (10-15 kg.) 52 ud.",
+        "precio": 32.4
+    },
+    {
+        "ID": 156,
+        "nombre": "Pañales Dodot Activity T6 (14+ Kg) 44 ud.",
+        "precio": 32.4
+    },
+    {
+        "ID": 157,
+        "nombre": "Pañales bebé seco Dodot T3 (6-10 kg.) 176 ud.",
+        "precio": 48.8
+    },
+    {
+        "ID": 158,
+        "nombre": "Pañales Dodot Activity T3 (7-11 kg.) 60 ud.",
+        "precio": 32.4
+    },
+    {
+        "ID": 159,
+        "nombre": "Pañales Dodot Sensitive T6+ (14+ kg) 41 ud.",
+        "precio": 35.25
+    },
+    {
+        "ID": 160,
+        "nombre": "Pañales Dodot Sensitive T5+ (12-17 kg) 44 ud.",
+        "precio": 31.1
+    },
+    {
+        "ID": 161,
+        "nombre": "Pants Dodot Activity T5 (12-17 kg) 38 ud.",
+        "precio": 29.3
+    },
+    {
+        "ID": 162,
+        "nombre": "Pants Dodot Activity T6 (14-19 kg) 35 ud.",
+        "precio": 29.3
+    },
+    {
+        "ID": 163,
+        "nombre": "Pañales Dodot Sensitive T4 (9-14 kg) 70 ud.",
+        "precio": 35.6
+    },
+    {
+        "ID": 164,
+        "nombre": "Pañales Dodot Sensitive T2 (4-8 kg) 88 ud.",
+        "precio": 33.1
+    },
+    {
+        "ID": 165,
+        "nombre": "Pañales Dodot Sensitive T3 (6-10 kg) 78 ud.",
+        "precio": 33.1
+    },
+    {
+        "ID": 166,
+        "nombre": "Pañales Dodot Sensitive T1 (2-5 kg) 90 ud.",
+        "precio": 33.1
+    },
+    {
+        "ID": 167,
+        "nombre": "Pañales Dodot Sensitive T0 (hasta 3 kg) 24 ud.",
+        "precio": 9.25
+    },
+    {
+        "ID": 168,
+        "nombre": "Pañales Dodot Sensitive T3 (6-10 kg) 148 ud.",
+        "precio": 59.8
+    },
+    {
+        "ID": 169,
+        "nombre": "Pañales Dodot Sensitive T2 (4-8 kg) 174 ud.",
+        "precio": 55.5
+    },
+    {
+        "ID": 170,
+        "nombre": "Pañales bebé seco Dodot T7 (15+ kg) 60 ud.",
+        "precio": 22.3
+    },
+    {
+        "ID": 171,
+        "nombre": "Pañales Dodot Sensitive T1 (2-5 kg) 168 ud.",
+        "precio": 52.4
+    },
+    {
+        "ID": 172,
+        "nombre": "Pañales Dodot Sensitive T4 (10-15 kg) 96 ud.",
+        "precio": 54.1
+    },
+    {
+        "ID": 173,
+        "nombre": "Pañales bebé seco Dodot T6 (13-18 kg) 66 ud.",
+        "precio": 26.1
+    },
+    {
+        "ID": 174,
+        "nombre": "Pipas de calabaza tostadas y saladas Carrefour 125 g.",
+        "precio": 1.55
+    },
+    {
+        "ID": 175,
+        "nombre": "Pipas de girasol saladas Carrefour 140 g.",
+        "precio": 0.99
+    },
+    {
+        "ID": 176,
+        "nombre": "Pipas de girasol saladas Carrefour 200 g.",
+        "precio": 1.4
+    },
+    {
+        "ID": 177,
+        "nombre": "Pipas gigantes saladas Classic Carrefour sin gluten 400 g.",
+        "precio": 2.15
+    },
+    {
+        "ID": 178,
+        "nombre": "Pipas de girasol gigantes saladas Classic Carrefour sin gluten 200 g.",
+        "precio": 1.1
+    },
+    {
+        "ID": 179,
+        "nombre": "Solomillo de cerdo Extratiernos ElPozo 750 g aprox",
+        "precio": 7.04
+    },
+    {
+        "ID": 180,
+        "nombre": "Jamón de Bellota Ibérico 100% Raza Ibérica en lonchas corte a cuchillo Sánchez Romero Carvajal 80 g",
+        "precio": 15.4
+    },
+    {
+        "ID": 181,
+        "nombre": "Solomillo de pollo empanado El Mercado 300 g aprox",
+        "precio": 2.64
+    },
+    {
+        "ID": 182,
+        "nombre": "Chorizo jabuguitos 100% ibérico de bellota Sánchez Romero Carvajal sin gluten 245 g",
+        "precio": 7.09
+    },
+    {
+        "ID": 183,
+        "nombre": "Solomillo al Pedro Ximénez 1 kg aprox",
+        "precio": 19.95
+    },
+    {
+        "ID": 184,
+        "nombre": "Solomillo de pavo 750 g aprox",
+        "precio": 5.89
+    },
+    {
+        "ID": 185,
+        "nombre": "Solomillo de atún 120 g aprox",
+        "precio": 4.5
+    },
+    {
+        "ID": 186,
+        "nombre": "Solomillo de añojo ecológico Carrefour Bio 450 g aprox",
+        "precio": 19.75
+    },
+    {
+        "ID": 187,
+        "nombre": "Solomillo de Pollo Marinado 450 g aprox",
+        "precio": 4.61
+    },
+    {
+        "ID": 188,
+        "nombre": "Solomillo de cerdo duroc Círculo de Calidad 450 g",
+        "precio": 5.35
+    },
+    {
+        "ID": 189,
+        "nombre": "Jamón de Bellota Ibérico 100% Raza Ibérica en lonchas Sánchez Romero Carvajal sin gluten 70 g",
+        "precio": 19.49
+    },
+    {
+        "ID": 190,
+        "nombre": "Solomillo de cerdo Carrefour 1,2 kg aprox",
+        "precio": 9.1
+    },
+    {
+        "ID": 191,
+        "nombre": "Jamón de Bellota Ibérico 100% Raza Ibérica en lonchas corte a cuchillo 5 Jotas 80 g",
+        "precio": 18.3
+    },
+    {
+        "ID": 192,
+        "nombre": "Solomillo de pollo congelado Luxus 700 g",
+        "precio": 5.75
+    },
+    {
+        "ID": 193,
+        "nombre": "Solomillo de pollo El Mercado 500 g aprox",
+        "precio": 5.5
+    },
+    {
+        "ID": 194,
+        "nombre": "Solomillo de Pollo Marinado al Ajillo Coren 300 g aprox",
+        "precio": 3.07
+    },
+    {
+        "ID": 195,
+        "nombre": "Solomillo de cerdo marinado Campofrío 1,2 kg",
+        "precio": 10.19
+    },
+    {
+        "ID": 196,
+        "nombre": "Solomillo de vacuno 500 g aprox",
+        "precio": 19.89
+    },
+    {
+        "ID": 197,
+        "nombre": "Chorizo ibérico de bellota de vela 100% raza ibérica Vela Sánchez Romero Carvajal sin gluten 200 g",
+        "precio": 9.95
+    },
+    {
+        "ID": 198,
+        "nombre": "Solomillo de pollo kentucky Fripozo 250 g.",
+        "precio": 3.29
+    },
+    {
+        "ID": 199,
+        "nombre": "Solomillo de pollo kentucky hot&spicy Fripozo 250 g.",
+        "precio": 3.99
+    },
+    {
+        "ID": 200,
+        "nombre": "Medallón de solomillo de vacuno 220 g aprox",
+        "precio": 8.75
+    },
+    {
+        "ID": 201,
+        "nombre": "Solomillos de pollo Carrefour El Mercado 600 g aprox",
+        "precio": 4.71
+    },
+    {
+        "ID": 202,
+        "nombre": "Solomillos de salmón ahumado noruego Royal pack de 2 unidades de 50 g.",
+        "precio": 10.35
+    },
+    {
+        "ID": 203,
+        "nombre": "Mojama de solomillos de atún Carrefour El Mercado 200 g",
+        "precio": 5.45
+    },
+    {
+        "ID": 204,
+        "nombre": "Solomillo de salmón ahumado Carrefour Extra 150 g.",
+        "precio": 10.05
+    }
+]

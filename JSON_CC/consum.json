@@ -1,0 +1,572 @@
+[
+    {
+        "ID": 1,
+        "busqueda": "chocolate milka",
+        "nombre": "Chocolate Relleno Caramelo 100 Gr",
+        "precio": 1.99
+    },
+    {
+        "ID": 2,
+        "busqueda": "chocolate milka",
+        "nombre": "Chocolate con Leche 125 Gr",
+        "precio": 1.79
+    },
+    {
+        "ID": 3,
+        "busqueda": "chocolate milka",
+        "nombre": "Chocolate con Leche 250 Gr",
+        "precio": 3.79
+    },
+    {
+        "ID": 4,
+        "busqueda": "chocolate milka",
+        "nombre": "Chocolate con Oreo 100 Gr",
+        "precio": 1.99
+    },
+    {
+        "ID": 5,
+        "busqueda": "chocolate milka",
+        "nombre": "Chocolate Con Galleta Biscoff 90 Gr",
+        "precio": 1.99
+    },
+    {
+        "ID": 6,
+        "busqueda": "chocolate milka",
+        "nombre": "Chocolate con Oreo 300 Gr",
+        "precio": 4.95
+    },
+    {
+        "ID": 7,
+        "busqueda": "chocolate milka",
+        "nombre": "Chocolate con Chips Ahoy 100 Gr",
+        "precio": 1.99
+    },
+    {
+        "ID": 8,
+        "busqueda": "chocolate milka",
+        "nombre": "Chocolate con Galleta Extra Biscoff 190 Gr",
+        "precio": 3.49
+    },
+    {
+        "ID": 9,
+        "busqueda": "chocolate milka",
+        "nombre": "Chocolate Avellanas Enteras 95 Gr",
+        "precio": 1.99
+    },
+    {
+        "ID": 10,
+        "busqueda": "chocolate milka",
+        "nombre": "Chocoswing Galleta 300 Gr",
+        "precio": 4.49
+    },
+    {
+        "ID": 11,
+        "busqueda": "chocolate milka",
+        "nombre": "Chocolate Blanco con Galleta Oreo 100 Gr",
+        "precio": 1.99
+    },
+    {
+        "ID": 12,
+        "busqueda": "chocolate milka",
+        "nombre": "Galleta Chocobiscuit 150 Gr",
+        "precio": 3.4
+    },
+    {
+        "ID": 13,
+        "busqueda": "chocolate milka",
+        "nombre": "Galleta Cookies Rellena Sensations 156 Gr",
+        "precio": 3.9
+    },
+    {
+        "ID": 14,
+        "busqueda": "chocolate milka",
+        "nombre": "Sticks de Galleta Cubiertas de Chocolate 112 Gr",
+        "precio": 1.99
+    },
+    {
+        "ID": 15,
+        "busqueda": "chocolate milka",
+        "nombre": "Galleta Choco Finas 126 Gr",
+        "precio": 2.3
+    },
+    {
+        "ID": 16,
+        "busqueda": "chocolate milka",
+        "nombre": "Galleta Mini Animals 99,5 Gr",
+        "precio": 1.6
+    },
+    {
+        "ID": 17,
+        "busqueda": "chocolate milka",
+        "nombre": "Bizcocho Cake&choc Relleno de Chocolate 5U 175 Gr",
+        "precio": 2.99
+    },
+    {
+        "ID": 18,
+        "busqueda": "chocolate milka",
+        "nombre": "Croissant Relleno Crema Chocolate 50 Gr",
+        "precio": 1.2
+    },
+    {
+        "ID": 19,
+        "busqueda": "chocolate milka",
+        "nombre": "Tarta Chocolate Milka 350 Gr",
+        "precio": 5.2
+    },
+    {
+        "ID": 20,
+        "busqueda": "chocolate milka",
+        "nombre": "Sándwich Stick Oreo y Chocolate Milka 204 Gr",
+        "precio": 5.99
+    },
+    {
+        "ID": 21,
+        "busqueda": "arroz basmati",
+        "nombre": "Arroz Basmati 1 Kg",
+        "precio": 2.1
+    },
+    {
+        "ID": 22,
+        "busqueda": "arroz basmati",
+        "nombre": "Arroz Basmati Paquete 1 Kg",
+        "precio": 3.49
+    },
+    {
+        "ID": 23,
+        "busqueda": "arroz basmati",
+        "nombre": "Arroz Basmati Vaso Pack de 2 2 x 125 Gr",
+        "precio": 1.29
+    },
+    {
+        "ID": 24,
+        "busqueda": "arroz basmati",
+        "nombre": "Arroz Salvaje y Basmati vasitos 2 x 125 Gr",
+        "precio": 1.65
+    },
+    {
+        "ID": 25,
+        "busqueda": "atun claro",
+        "nombre": "Atún Claro Aceite Oliva Pack de 3 3 x 52 Gr",
+        "precio": 2.79
+    },
+    {
+        "ID": 26,
+        "busqueda": "atun claro",
+        "nombre": "Atún Claro Lomos en Aceite de Oliva 130 Gr",
+        "precio": 3.45
+    },
+    {
+        "ID": 27,
+        "busqueda": "atun claro",
+        "nombre": "Atún Claro Aceite Oliva Pack 3 3 x 48 Gr",
+        "precio": 4.99
+    },
+    {
+        "ID": 28,
+        "busqueda": "atun claro",
+        "nombre": "Atún Claro Aceite Girasol 104 Gr",
+        "precio": 2.19
+    },
+    {
+        "ID": 29,
+        "busqueda": "atun claro",
+        "nombre": "Atún Claro Aceite Oliva Virgen Extra 3 x 52 Gr",
+        "precio": 4.49
+    },
+    {
+        "ID": 30,
+        "busqueda": "atun claro",
+        "nombre": "Atún Claro Natural 112 Gr",
+        "precio": 2.19
+    },
+    {
+        "ID": 31,
+        "busqueda": "atun claro",
+        "nombre": "Atún Claro en Escabeche Pack de 3 3 x 52 Gr",
+        "precio": 2.39
+    },
+    {
+        "ID": 32,
+        "busqueda": "atun claro",
+        "nombre": "Atún Claro Aceite Oliva Pack de 3 3 x 52 Gr",
+        "precio": 4.49
+    },
+    {
+        "ID": 33,
+        "busqueda": "atun claro",
+        "nombre": "Atún Claro en Aceite de Oliva Virgen Extra P3 3 x 67 Gr",
+        "precio": 7.25
+    },
+    {
+        "ID": 34,
+        "busqueda": "atun claro",
+        "nombre": "Atún Claro Bajo en Sal en Aceite de Oliva Pack 3 3 x 52 Gr",
+        "precio": 2.89
+    },
+    {
+        "ID": 35,
+        "busqueda": "atun claro",
+        "nombre": "Atún Claro Aceite Oliva Pack de 3 3 x 72 Gr",
+        "precio": 6.79
+    },
+    {
+        "ID": 36,
+        "busqueda": "atun claro",
+        "nombre": "Atún Claro Aceite Oliva Bajo en Sal 3 x 52 Gr",
+        "precio": 4.49
+    },
+    {
+        "ID": 37,
+        "busqueda": "atun claro",
+        "nombre": "Atún Claro Aceite Girasol Pack de 6 6 x 52 Gr",
+        "precio": 6.79
+    },
+    {
+        "ID": 38,
+        "busqueda": "atun claro",
+        "nombre": "Atún Claro Virgen Extra en Aceite de Oliva 3 x 52 Gr",
+        "precio": 3.35
+    },
+    {
+        "ID": 39,
+        "busqueda": "atun claro",
+        "nombre": "Atún Claro Supernatural Pack 3 3 x 56 Gr",
+        "precio": 3.49
+    },
+    {
+        "ID": 40,
+        "busqueda": "atun claro",
+        "nombre": "Atún Claro en Aceite de Oliva 104 Gr",
+        "precio": 2.49
+    },
+    {
+        "ID": 41,
+        "busqueda": "atun claro",
+        "nombre": "Atún Claro Natural Pack de 3 3 x 56 Gr",
+        "precio": 2.3
+    },
+    {
+        "ID": 42,
+        "busqueda": "atun claro",
+        "nombre": "Atún Claro Aceite Girasol Pack de 3 3 x 52 Gr",
+        "precio": 2.7
+    },
+    {
+        "ID": 43,
+        "busqueda": "atun claro",
+        "nombre": "Atún Claro Aceite Oliva Lata 72,5 Gr",
+        "precio": 1.39
+    },
+    {
+        "ID": 44,
+        "busqueda": "atun claro",
+        "nombre": "Atún Claro  Aceite Oliva Pack de 6 6 x 52 Gr",
+        "precio": 4.9
+    },
+    {
+        "ID": 45,
+        "busqueda": "atun claro",
+        "nombre": "Atún Claro Aceite Girasol Pack de 6 6 x 52 Gr",
+        "precio": 4.2
+    },
+    {
+        "ID": 46,
+        "busqueda": "atun claro",
+        "nombre": "Atún Claro Natural Pack de 6 6 x 56 Gr",
+        "precio": 4.2
+    },
+    {
+        "ID": 47,
+        "busqueda": "atun claro",
+        "nombre": "Atún Claro Aceite Oliva Pack de 6 6 x 52 Gr",
+        "precio": 7.95
+    },
+    {
+        "ID": 48,
+        "busqueda": "atun claro",
+        "nombre": "Atún Claro Aceite Girasol Pack 3+1 4 x 52 Gr",
+        "precio": 3.5
+    },
+    {
+        "ID": 49,
+        "busqueda": "atun claro",
+        "nombre": "Ventresca de Atún Claro en Aceite de Oliva 72,5 Gr",
+        "precio": 3.09
+    },
+    {
+        "ID": 50,
+        "busqueda": "atun claro",
+        "nombre": "Filete Atún Claro Aceite de Oliva Frasco 163 Gr",
+        "precio": 5.79
+    },
+    {
+        "ID": 51,
+        "busqueda": "atun claro",
+        "nombre": "Torre Atún Claro Aceite Girasol Pack 3 3 x 104 Gr",
+        "precio": 5.89
+    },
+    {
+        "ID": 52,
+        "busqueda": "cerveza 1906",
+        "nombre": "Cerveza Reserva Lata 0,33 L",
+        "precio": 1.15
+    },
+    {
+        "ID": 53,
+        "busqueda": "cerveza 1906",
+        "nombre": "Cerveza Red Vintage Botella Cristal Pack-6 6 x 0,33 L",
+        "precio": 8.25
+    },
+    {
+        "ID": 54,
+        "busqueda": "cerveza 1906",
+        "nombre": "Cerveza Reserva Botella Cristal Pack-6 6 x 0,33 L",
+        "precio": 7.45
+    },
+    {
+        "ID": 55,
+        "busqueda": "mayonesa hellmanns",
+        "nombre": "Mayonesa Bocabajo 430 ml",
+        "precio": 3.49
+    },
+    {
+        "ID": 56,
+        "busqueda": "mayonesa hellmanns",
+        "nombre": "Mayonesa Tarro 650 ml",
+        "precio": 4.2
+    },
+    {
+        "ID": 57,
+        "busqueda": "mayonesa hellmanns",
+        "nombre": "Mayonesa Trufa 250 ml",
+        "precio": 2.45
+    },
+    {
+        "ID": 58,
+        "busqueda": "mayonesa hellmanns",
+        "nombre": "Mayonesa Francesa con Toque de Mostaza 340 ml",
+        "precio": 2.95
+    },
+    {
+        "ID": 59,
+        "busqueda": "mayonesa hellmanns",
+        "nombre": "Mayonesa Chili 250 ml",
+        "precio": 2.45
+    },
+    {
+        "ID": 60,
+        "busqueda": "mayonesa hellmanns",
+        "nombre": "Mayonesa Tarro Cristal 450 ml",
+        "precio": 2.95
+    },
+    {
+        "ID": 61,
+        "busqueda": "mayonesa hellmanns",
+        "nombre": "Mayonesa Tarro Cristal 225 ml",
+        "precio": 1.95
+    },
+    {
+        "ID": 62,
+        "busqueda": "mayonesa hellmanns",
+        "nombre": "Salsa Vegetal 340 ml",
+        "precio": 3.25
+    },
+    {
+        "ID": 63,
+        "busqueda": "pate cerdo",
+        "nombre": "Paté de Campaña Pasteurizado",
+        "precio": 11.5
+    },
+    {
+        "ID": 64,
+        "busqueda": "pate cerdo",
+        "nombre": "Pate Hígado de Cerdo Lata 200 Gr",
+        "precio": 1.25
+    },
+    {
+        "ID": 65,
+        "busqueda": "pate cerdo",
+        "nombre": "Paté Hígado de Cerdo Suave Pack de 3 240 Gr",
+        "precio": 1.85
+    },
+    {
+        "ID": 66,
+        "busqueda": "pate cerdo",
+        "nombre": "Paté Cerdo Picante Lata Pack de 2 2 x 73 Gr",
+        "precio": 3.95
+    },
+    {
+        "ID": 67,
+        "busqueda": "pate cerdo",
+        "nombre": "Paté de Hígado de Cerdo Lata 225 Gr",
+        "precio": 3.89
+    },
+    {
+        "ID": 68,
+        "busqueda": "pate cerdo",
+        "nombre": "Paté de Cerdo Ibérico Monodosis 3 x 50 Gr",
+        "precio": 1.55
+    },
+    {
+        "ID": 69,
+        "busqueda": "pate cerdo",
+        "nombre": "Paté Hígado Cerdo -50% Grasa Tapa Negra 2 x 73 Gr",
+        "precio": 3.95
+    },
+    {
+        "ID": 70,
+        "busqueda": "pate cerdo",
+        "nombre": "Paté de Cerdo Tapa Negra 115 Gr",
+        "precio": 1.75
+    },
+    {
+        "ID": 71,
+        "busqueda": "pate cerdo",
+        "nombre": "Paté Hígado de Cerdo Lata Pack de 3 3 x 78 Gr",
+        "precio": 1.55
+    },
+    {
+        "ID": 72,
+        "busqueda": "pate cerdo",
+        "nombre": "Pate de Hígado de Cerdo Lata 3 x 87 Gr",
+        "precio": 3.95
+    },
+    {
+        "ID": 73,
+        "busqueda": "pate cerdo",
+        "nombre": "Paté de Cerdo 3 x 83 Gr",
+        "precio": 2.25
+    },
+    {
+        "ID": 74,
+        "busqueda": "pate cerdo",
+        "nombre": "Manteca de Cerdo Ibérico 400 Gr",
+        "precio": 3.75
+    },
+    {
+        "ID": 75,
+        "busqueda": "pate cerdo",
+        "nombre": "Ajos Secos Malla",
+        "precio": 1.85
+    },
+    {
+        "ID": 76,
+        "busqueda": "pate cerdo",
+        "nombre": "Cebolla DulcePieza precio aprox.",
+        "precio": 0.69
+    },
+    {
+        "ID": 77,
+        "busqueda": "solomillo",
+        "nombre": "Solomillo de Cerdo",
+        "precio": 4.0
+    },
+    {
+        "ID": 78,
+        "busqueda": "solomillo",
+        "nombre": "Solomillo al RomeroBandeja 600 g aprox.",
+        "precio": 6.56
+    },
+    {
+        "ID": 79,
+        "busqueda": "solomillo",
+        "nombre": "Solomillo de Pollo .",
+        "precio": 4.2
+    },
+    {
+        "ID": 80,
+        "busqueda": "solomillo",
+        "nombre": "Solomillo de Pollo Crujiente",
+        "precio": 4.78
+    },
+    {
+        "ID": 81,
+        "busqueda": "solomillo",
+        "nombre": "Solomillo de Pavo",
+        "precio": 4.5
+    },
+    {
+        "ID": 82,
+        "busqueda": "solomillo",
+        "nombre": "Solomillo de Cerdo Origen EspañaPieza precio aprox.",
+        "precio": 3.4
+    },
+    {
+        "ID": 83,
+        "busqueda": "solomillo",
+        "nombre": "Solomillo Vaca Madurada",
+        "precio": 14.4
+    },
+    {
+        "ID": 84,
+        "busqueda": "solomillo",
+        "nombre": "Solomillo de Añojo",
+        "precio": 14.7
+    },
+    {
+        "ID": 85,
+        "busqueda": "solomillo",
+        "nombre": "Solomillos EmpanadosFilete precio aprox.",
+        "precio": 0.79
+    },
+    {
+        "ID": 86,
+        "busqueda": "solomillo",
+        "nombre": "Filete Solomillo de Ternera GallegaFilete precio aprox.",
+        "precio": 8.73
+    },
+    {
+        "ID": 87,
+        "busqueda": "solomillo",
+        "nombre": "Filete Solomillo de AñojoFilete precio aprox.",
+        "precio": 7.24
+    },
+    {
+        "ID": 88,
+        "busqueda": "solomillo",
+        "nombre": "Espárrago Triguero",
+        "precio": 2.45
+    },
+    {
+        "ID": 89,
+        "busqueda": "solomillo",
+        "nombre": "Ajos Secos Malla",
+        "precio": 1.85
+    },
+    {
+        "ID": 90,
+        "busqueda": "solomillo",
+        "nombre": "Cebolla Morada Malla",
+        "precio": 1.4
+    },
+    {
+        "ID": 91,
+        "busqueda": "solomillo",
+        "nombre": "Calabaza EnteraPieza precio aprox.",
+        "precio": 2.93
+    },
+    {
+        "ID": 92,
+        "busqueda": "solomillo",
+        "nombre": "Cebolla Tierna Manojo Peso Aproximado 300 gr",
+        "precio": 1.25
+    },
+    {
+        "ID": 93,
+        "busqueda": "solomillo",
+        "nombre": "Harina de Maíz Caja 400 Gr",
+        "precio": 2.99
+    },
+    {
+        "ID": 94,
+        "busqueda": "solomillo",
+        "nombre": "Pimienta Negra Molida Tarro 40 Gr",
+        "precio": 3.59
+    },
+    {
+        "ID": 95,
+        "busqueda": "solomillo",
+        "nombre": "Leche Entera Brik 1 L",
+        "precio": 0.96
+    }
+]
