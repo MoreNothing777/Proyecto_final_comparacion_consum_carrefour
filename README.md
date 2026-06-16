@@ -366,6 +366,7 @@ Este proyecto demuestra un flujo completo de tratamiento de datos:
 - y visualización.
 
 Además, refleja un caso real de desarrollo donde se han encontrado problemas técnicos reales, se han documentado y se han resuelto con alternativas viables.
+Salu2
 
 ---
 
